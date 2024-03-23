@@ -16,14 +16,14 @@ export default function HeroSection(){
                     </ul>
                 </div>
                 <div className={"md:w-5/12 flex flex-col items-end md:px-0 px-4"}>
-                    <h1 className={"md:w-10/12 w-full text-5xl font-bold md:text-left text-left"}>Puja Purbey</h1>
-                    <h1 className={"md:w-8/12 w-9/12 text-xl text-gray-600 mt-2 text-left"}> Backend Developer</h1>
+                    <h1 className={"md:w-10/12 w-full text-5xl font-bold md:text-left text-center"}>Puja Purbey</h1>
+                    <h1 className={"md:w-8/12 w-8/12 text-xl text-gray-600 mt-2"}> Backend Developer</h1>
                     <h1 className={"text-gray-500 md:w-10/12 text-sm mt-4"}>An experienced backend developer with a knack for creating reliable server-side solutions.</h1>
                     <div className={"md:w-10/12 w-full mt-6"}>
-                        <h3 className={"h-[3.5rem] w-36 text-sm text-white rounded-xl shadow-xl bg-gray-900 flex justify-center items-center"}>
-                            <a href={"/error-page"}>Download CV</a>
+                        <a href={"/error-page"} className={"h-[3.5rem] w-36 text-sm text-white rounded-xl shadow-xl bg-gray-900 flex justify-center items-center cursor-pointer"}>
+                            <h1>Download CV</h1>
                             <PiPaperPlaneTiltBold  className={"ml-2"}/>
-                        </h3>
+                        </a>
                     </div>
                 </div>
                 <div className={"md:w-5/12 w-full flex md:justify-start justify-center"}>
