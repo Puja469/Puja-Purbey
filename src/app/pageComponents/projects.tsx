@@ -4,9 +4,9 @@ import pattern from "../../../public/Images/pattern.png"
 export default function Projects(){
 
     const projectNames = [
-        {name : "KingCurd Web", image : pattern, github : "https://github.com/NirajanMahato/ComixNook-Web"},
-        {name : "KingCurd Mobile", image : pattern, github : "https://github.com/NirajanMahato/ComixNook-prj"},
-        {name : "Portfolio", image : pattern, github : "https://github.com/NirajanMahato/Nirajan-s-Portfolio"},
+        {name : "KingCurd Web", image : pattern, github : "https://github.com/Puja469/GlamCart"},
+        {name : "KingCurd Mobile", image : pattern, github : "https://github.com/Puja469/GlamCart"},
+        {name : "Portfolio", image : pattern, github : "https://github.com/Puja469/Puja-Purbey"},
     ]
 
     return(

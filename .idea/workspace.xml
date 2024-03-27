@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="1969bec8-4eb2-42b1-84ff-c1d600e3aa37" name="Changes" comment="" />
+    <list default="true" id="1969bec8-4eb2-42b1-84ff-c1d600e3aa37" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pageComponents/contactMe.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pageComponents/contactMe.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pageComponents/heroSection.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pageComponents/heroSection.tsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/app/pageComponents/projects.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/app/pageComponents/projects.tsx" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -40,6 +45,7 @@
     "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "settings.editor.selected.configurable": "vcs.Git",
+    "ts.external.directory.path": "/Users/puja/Downloads/puja-portfolio/node_modules/typescript/lib",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
@@ -51,7 +57,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1711554901886</updated>
-      <workItem from="1711554904140" duration="514000" />
+      <workItem from="1711554904140" duration="1571000" />
     </task>
     <servers />
   </component>

@@ -13,11 +13,11 @@ export default function ContactMe(){
                 <h1 className={"text-gray-500"}>Get In Touch</h1>
                 <div className={"mt-10"}>
                     <ul className={"flex gap-6 text-4xl"}>
-                        <a href={"https://www.facebook.com/nirajan.1224"} target={"_blank"} rel={"noreferrer"}><li><FaFacebookF className={"text-3xl mt-1"}/></li></a>
-                        <a href={"https://www.instagram.com/nirajan__mahato/"} target={"_blank"} rel={"noreferrer"}><li><RiInstagramFill /></li></a>
-                        <a href={"mailto:nirajanmahato44@gmail.com"} target={"_blank"} rel={"noreferrer"}><li><MdMail /></li></a>
-                        <a href={"https://www.linkedin.com/in/nirajan-mahato-898b90285/"} target={"_blank"} rel={"noreferrer"}><li><FaLinkedinIn /></li></a>
-                        <a href={"https://github.com/NirajanMahato"} target={"_blank"} rel={"noreferrer"}><li><FaGithub /></li></a>
+                        <a href={"https://www.facebook.com/pooja.purbey.98"} target={"_blank"} rel={"noreferrer"}><li><FaFacebookF className={"text-3xl mt-1"}/></li></a>
+                        <a href={"https://www.instagram.com/pujapurbey5/"} target={"_blank"} rel={"noreferrer"}><li><RiInstagramFill /></li></a>
+                        <a href={"mailto:poojapurbey469@gmail.com"} target={"_blank"} rel={"noreferrer"}><li><MdMail /></li></a>
+                        <a href={"https://www.linkedin.com/in/pujapurbey/"} target={"_blank"} rel={"noreferrer"}><li><FaLinkedinIn /></li></a>
+                        <a href={"https://github.com/Puja469"} target={"_blank"} rel={"noreferrer"}><li><FaGithub /></li></a>
                     </ul>
                 </div>
                 <h1 className={"md:text-sm text-xs text-gray-500 absolute md:bottom-10 bottom-0 font-medium"}>© Copyright. All Rights Reserved</h1>

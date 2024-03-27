@@ -10,9 +10,9 @@ export default function HeroSection(){
             <div className={"h-[38.3rem] flex md:flex-row flex-col-reverse relative items-center justify-center gap-14"}>
                 <div className={"md:w-2/12 md:pl-32 md:static absolute left-10 top-24 social-icons mt-2"}>
                     <ul className={"flex flex-col text-2xl gap-8"}>
-                        <a href={"https://www.instagram.com/nirajan__mahato/"} target={"_blank"} rel={"noreferrer"}><li><RiInstagramFill /></li></a>
-                        <a href={"https://www.linkedin.com/in/nirajan-mahato-898b90285/"} target={"_blank"} rel={"noreferrer"}><li><FaLinkedinIn /></li></a>
-                        <a href={"https://github.com/NirajanMahato"} target={"_blank"} rel={"noreferrer"}><li><FaGithub /></li></a>
+                        <a href={"https://www.instagram.com/pujapurbey5/"} target={"_blank"} rel={"noreferrer"}><li><RiInstagramFill /></li></a>
+                        <a href={"https://www.linkedin.com/in/pujapurbey/"} target={"_blank"} rel={"noreferrer"}><li><FaLinkedinIn /></li></a>
+                        <a href={"https://github.com/Puja469"} target={"_blank"} rel={"noreferrer"}><li><FaGithub /></li></a>
                     </ul>
                 </div>
                 <div className={"md:w-5/12 flex flex-col items-end md:px-0 px-4"}>
