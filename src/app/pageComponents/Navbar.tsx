@@ -37,7 +37,7 @@ export function Navbar() {
             <div className="mx-auto flex max-w-7xl items-center justify-between px-4 py-2 sm:px-6 lg:px-8">
                 <div className="inline-flex items-center space-x-2 md:w-3/12">
                     <span><Image src={logo} className={"w-10"} alt={"logo"} /></span>
-                    <span className="font-bold text-xl"> Puja Purbey</span>
+                    {/*<span className="font-bold text-xl"> Puja Purbey</span>*/}
                 </div>
                 <div className="hidden grow items-start justify-end lg:flex w-10/12">
                     <ul className="ml-12 inline-flex space-x-8">
